@@ -1,0 +1,13 @@
+.topmenu a:hover, .topmenu a.active, .news-name a, .scroll-item-name a:hover, a.link-view, .column h2, .news-name h2, a.link-button, 
+a.link-button2, a.link-button3, .btn-submit, .short-title a:hover, a:hover, .contact-form .btn-submit, h1, .dropdown .root-item span, #cboxTitle{
+ color:#31b5df;
+ }
+	
+.ui-slider-handle{
+ background-color: #31b5df;
+ }
+ 
+.filter-content .checked a{ 
+ background:url(../images/blue_icon_check.png) 68px 4px no-repeat;
+}
+	
