@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml">
-
+<!-- 여기 있는 모든 컨텐트는 예제 입니다!!! 밑에 있는 내용들 다 긁어왔어요, 형준이형! 나중에 "푸딩" 만들때 참고하세요!-->
 <head>
 
 <script src="../js/loopedslider.js" language="javascript" type="text/javascript"></script>

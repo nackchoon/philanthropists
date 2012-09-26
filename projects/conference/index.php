@@ -170,50 +170,6 @@
 					
 					<br />
 					
-					<!-- <table>
-											<tr>
-												<th>Time</th>
-												<th colspan="4">Activity</th>
-											</tr>
-											<tr>
-												<th>9:00 - 9:30</th>
-												<td colspan="4">Conference Registration</td>
-											</tr>
-											<tr>
-												<th>9:30 - 10:30</th>
-												<td colspan="4">Opening Speech</td>
-											</tr>
-											<tr>
-												<th>10:30 - 12:00</th>
-												<td>Strategic Non-Profit</td>
-												<td>Micro-finance</td>
-												<td>Social Entrepreneurship</td>
-												<td>CSV</td>
-											</tr>
-											<tr>
-												<th>12:00 - 1:30</th>
-												<td colspan="4">Lunch and Mentoring</td>
-											</tr>
-											<tr>
-												<th>1:30 - 3:00</th>
-												<td>Governance</td>
-												<td>Green Development</td>
-												<td>Education</td>
-												<td>Health Policy</td>
-											</tr>
-											<tr>
-												<th>3:00 - 4:30</th>
-												<td>Media in Social Development</td>
-												<td>Social Design</td>
-												<td>Non-Profit Consulting</td>
-												<td>SNS</td>
-											</tr>
-											<tr>
-												<th>4:30 - 5:00</th>
-												<td colspan="4">Closing Remarks</td>
-											</tr>
-										</table> -->
-					
 					<h4>Our Sponsors</h4>
 					<br />
 					

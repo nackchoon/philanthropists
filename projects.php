@@ -248,21 +248,21 @@
 
 					<!-- <div class="scroll-content-item">
 
-						<div class="news-name"><h2><a href="#">2010 Webby Nominees &amp; Honorees</a></h2></div>
+						<div class="news-name"><h2><a href="#">컨텐트 제목</a></h2></div>
 
 						<div class="item-date"><em>June 1, 2010</em></div>
 
 						<div class="news-short">
 
-							<h3>Official Webby &amp; People's Voice Nominees:</h3>
+							<h3>사람 리스트:</h3>
 
 							<ul>
 
-								<li>- CNN.com in the Best Practices category </li>
+								<li>- 아무자료</li>
 
-								<li>- NYCgo.com in the Tourism category</li>
+								<li>- 아무자료</li>
 
-								<li>- ONE.org was nominated in the Charitable</li>
+								<li>- 아무자료</li>
 
 							</ul>
 
@@ -270,9 +270,9 @@
 
 							<ul>
 
-								<li>- CNN.com was selected as an Official Honoree in the News category </li>
+								<li>- 아무자료</li>
 
-								<li>- iVillage.com was selected as an Official Honoree in the Community and Lifestyle category </li>
+								<li>- 아무자료</li>
 
 							</ul>
 

@@ -155,7 +155,7 @@
 
 					<div class="scroll-item-name">
 
-						<p><a href="#">Bacardi Premium website</a> | <a href="#" class="link-view">view</a></p>
+						<p><a href="#">Web Name</a> | <a href="#" class="link-view">view</a></p>
 
 						<span class="item-date">APR 12, 2010 | WEBDESIGN</span>
 
@@ -169,7 +169,7 @@
 
 					<div class="scroll-item-name">
 
-						<p><a href="#">Hugo Boss fragrance prints</a> | <a href="#" class="link-view">view</a></p>
+						<p><a href="#">Web Name</a> | <a href="#" class="link-view">view</a></p>
 
 						<span class="item-date">DEC 9, 2009 | WALLPAPERS</span>
 

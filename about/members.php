@@ -436,6 +436,7 @@
 						</div>
 					</div>
 					
+					<!-- 탈퇴 멤버-->
 					<!-- <div class="member_box">
 											<img src="../images/members/second/jongsoo.jpg" alt="한종수" />
 											한종수<br />Associate Researcher
