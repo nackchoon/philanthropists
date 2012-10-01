@@ -174,17 +174,17 @@
 						</div>
 					</div>
 					
-					<div class="member_box">
-						<img src="../images/members/first/jihyun.jpg" alt="이지현" />
-						이지현<br />External Relations Specialist
-						<div class="ui-tooltip">
-							<b>이름: </b>이지현<br /><br />
-							<b>직책: </b>External Relations Specialist<br /><br />
-							<b>학교: </b>Emory University<br /><br />
-							<b>전공: </b>Sociology / Art History<br /><br />
-							<b>한마디: </b>Opportunities are usually disguised as hard work, so most people don’t recognize them.
-						</div>
-					</div>
+					<!-- <div class="member_box">
+											<img src="../images/members/first/jihyun.jpg" alt="이지현" />
+											이지현<br />External Relations Specialist
+											<div class="ui-tooltip">
+												<b>이름: </b>이지현<br /><br />
+												<b>직책: </b>External Relations Specialist<br /><br />
+												<b>학교: </b>Emory University<br /><br />
+												<b>전공: </b>Sociology / Art History<br /><br />
+												<b>한마디: </b>Opportunities are usually disguised as hard work, so most people don’t recognize them.
+											</div>
+										</div> -->
 					
 					<div class="member_box">
 						<img src="../images/members/first/minjung.jpg" alt="차민정" />
@@ -569,17 +569,17 @@
 						</div>
 					</div>
 					
-					<div class="member_box">
-						<img src="../images/members/second/haesol.jpg" alt="원해솔" />
-						원해솔<br />Associate Researcher
-						<div class="ui-tooltip">
-							<b>이름: </b>원해솔<br /><br />
-							<b>직책: </b>Associate Researcher<br /><br />
-							<b>학교: </b>Emory University<br /><br />
-							<b>전공: </b>Journalism / Economics<br /><br />
-							<b>한마디: </b>시작이 없으면 끝도 없음
-						</div>
-					</div>
+					<!-- <div class="member_box">
+											<img src="../images/members/second/haesol.jpg" alt="원해솔" />
+											원해솔<br />Associate Researcher
+											<div class="ui-tooltip">
+												<b>이름: </b>원해솔<br /><br />
+												<b>직책: </b>Associate Researcher<br /><br />
+												<b>학교: </b>Emory University<br /><br />
+												<b>전공: </b>Journalism / Economics<br /><br />
+												<b>한마디: </b>시작이 없으면 끝도 없음
+											</div>
+										</div> -->
 					
 					<div class="member_box">
 						<img src="../images/members/second/sewoong.jpg" alt="안세웅" />
