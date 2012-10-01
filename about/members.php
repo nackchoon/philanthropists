@@ -69,11 +69,23 @@
 					</div>
 					
 					<div class="member_box">
+						<img src="../images/members/founders/hyungjoon.jpg" alt="김형준" />
+						김형준 <br />VP / Finance
+						<div class="ui-tooltip">
+							<b>이름: </b>김형준<br /><br />
+							<b>직책: </b>President<br /><br />
+							<b>학교: </b>Babson College<br /><br />
+							<b>전공: </b>Entrepreneurship / Marketing<br /><br />
+							<b>한마디: </b>Happiness is not something ready made. It comes from your own actions.
+						</div>
+					</div>
+					
+					<div class="member_box">
 						<img src="../images/members/founders/kidong.jpg" alt="김기동" />
 						김기동 <br />President
 						<div class="ui-tooltip">
 							<b>이름: </b>김기동<br /><br />
-							<b>직책: </b>President<br /><br />
+							<b>직책: </b>Honorary President<br /><br />
 							<b>학교: </b>Carnegie Mellon University<br /><br />
 							<b>전공: </b>Economics / Statistics<br /><br />
 							<b>한마디: </b>All you need is love.
@@ -89,18 +101,6 @@
 							<b>학교: </b>Georgetown University<br /><br />
 							<b>전공: </b>Finance / CPA<br /><br />
 							<b>한마디: </b>Real is all a vision. You have to see it for yourself.
-						</div>
-					</div>
-					
-					<div class="member_box">
-						<img src="../images/members/founders/hyungjoon.jpg" alt="김형준" />
-						김형준 <br />VP / Finance
-						<div class="ui-tooltip">
-							<b>이름: </b>김형준<br /><br />
-							<b>직책: </b>VP / ER<br /><br />
-							<b>학교: </b>Babson College<br /><br />
-							<b>전공: </b>Entrepreneurship / Marketing<br /><br />
-							<b>한마디: </b>Happiness is not something ready made. It comes from your own actions.
 						</div>
 					</div>
 					
