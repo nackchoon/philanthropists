@@ -76,7 +76,7 @@
 			 
 					<div class="front-image">
 						
-						<a href="/about/recruit.php">
+						<a href="recruit.php">
 							<img src="/images/photo/recruit3.jpg" alt="" />
 						</a>
 						

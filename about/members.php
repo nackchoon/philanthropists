@@ -70,7 +70,7 @@
 					
 					<div class="member_box">
 						<img src="../images/members/founders/hyungjoon.jpg" alt="김형준" />
-						김형준 <br />VP / Finance
+						김형준 <br />President
 						<div class="ui-tooltip">
 							<b>이름: </b>김형준<br /><br />
 							<b>직책: </b>President<br /><br />
@@ -82,7 +82,7 @@
 					
 					<div class="member_box">
 						<img src="../images/members/founders/kidong.jpg" alt="김기동" />
-						김기동 <br />President
+						김기동 <br />Honorary President
 						<div class="ui-tooltip">
 							<b>이름: </b>김기동<br /><br />
 							<b>직책: </b>Honorary President<br /><br />
@@ -186,17 +186,17 @@
 											</div>
 										</div> -->
 					
-					<div class="member_box">
-						<img src="../images/members/first/minjung.jpg" alt="차민정" />
-						차민정<br />Associate Editor
-						<div class="ui-tooltip">
-							<b>이름: </b>차민정<br /><br />
-							<b>직책: </b>Associate Editor<br /><br />
-							<b>학교: </b>University of Notre Dame<br /><br />
-							<b>전공: </b>Pre-Medicine / Sociology<br /><br />
-							<b>한마디: </b>Just when the caterpillar thought the world was over, it became a butterfly.
-						</div>
-					</div>
+          <!-- <div class="member_box">
+            <img src="../images/members/first/minjung.jpg" alt="차민정" />
+            차민정<br />Associate Editor
+            <div class="ui-tooltip">
+              <b>이름: </b>차민정<br /><br />
+              <b>직책: </b>Associate Editor<br /><br />
+              <b>학교: </b>University of Notre Dame<br /><br />
+              <b>전공: </b>Pre-Medicine / Sociology<br /><br />
+              <b>한마디: </b>Just when the caterpillar thought the world was over, it became a butterfly.
+            </div>
+          </div> -->
 					
 					<div class="member_box">
 						<img src="../images/members/first/namhee.jpg" alt="김남희" />
@@ -246,17 +246,17 @@
 						</div>
 					</div>
 					
-					<div class="member_box">
-						<img src="../images/members/first/hyeyoung.jpg" alt="황혜영" />
-						황혜영<br />Associate Editor
-						<div class="ui-tooltip">
-							<b>이름: </b>황혜영<br /><br />
-							<b>직책: </b>Associate Editor<br /><br />
-							<b>학교: </b>Syracuse University<br /><br />
-							<b>전공: </b>--<br /><br />
-							<b>한마디: </b>Think of all the beauty still left around you and be happy.
-						</div>
-					</div>
+          <!-- <div class="member_box">
+            <img src="../images/members/first/hyeyoung.jpg" alt="황혜영" />
+            황혜영<br />Associate Editor
+            <div class="ui-tooltip">
+              <b>이름: </b>황혜영<br /><br />
+              <b>직책: </b>Associate Editor<br /><br />
+              <b>학교: </b>Syracuse University<br /><br />
+              <b>전공: </b><br /><br />
+              <b>한마디: </b>Think of all the beauty still left around you and be happy.
+            </div>
+          </div> -->
 					
 					<div class="member_box">
 						<img src="../images/members/first/taewook.jpg" alt="안태욱" />
@@ -352,17 +352,17 @@
 						</div>
 					</div>
 					
-					<div class="member_box">
-						<img src="../images/members/second/youn.jpg" alt="김윤" />
-						김윤<br />Associate Researcher
-						<div class="ui-tooltip">
-							<b>이름: </b>김윤<br /><br />
-							<b>직책: </b>Associate Researcher<br /><br />
-							<b>학교: </b>Harvard University<br /><br />
-							<b>전공: </b>Visual and Environmental Studies<br /><br />
-							<b>한마디: </b>A dream of youth
-						</div>
-					</div>
+          <!-- <div class="member_box">
+            <img src="../images/members/second/youn.jpg" alt="김윤" />
+            김윤<br />Associate Researcher
+            <div class="ui-tooltip">
+              <b>이름: </b>김윤<br /><br />
+              <b>직책: </b>Associate Researcher<br /><br />
+              <b>학교: </b>Harvard University<br /><br />
+              <b>전공: </b>Visual and Environmental Studies<br /><br />
+              <b>한마디: </b>A dream of youth
+            </div>
+          </div> -->
 					
 					<div class="member_box">
 						<img src="../images/members/second/seungho.jpg" alt="전승호" />
@@ -412,29 +412,29 @@
 						</div>
 					</div>
 					
-					<div class="member_box">
-						<img src="../images/members/second/kenny.jpg" alt="전강우" />
-						전강우<br />Associate Researcher
-						<div class="ui-tooltip">
-							<b>이름: </b>전강우<br /><br />
-							<b>직책: </b>Associate Researcher<br /><br />
-							<b>학교: </b>Auckland University<br /><br />
-							<b>전공: </b>Architecture<br /><br />
-							<b>한마디: </b><a href="http://www.youtube.com/watch?v=auNSrt-QOhw">click me</a>
-						</div>
-					</div>
+          <!-- <div class="member_box">
+            <img src="../images/members/second/kenny.jpg" alt="전강우" />
+            전강우<br />Associate Researcher
+            <div class="ui-tooltip">
+              <b>이름: </b>전강우<br /><br />
+              <b>직책: </b>Associate Researcher<br /><br />
+              <b>학교: </b>Auckland University<br /><br />
+              <b>전공: </b>Architecture<br /><br />
+              <b>한마디: </b><a href="http://www.youtube.com/watch?v=auNSrt-QOhw">click me</a>
+            </div>
+          </div> -->
 					
-					<div class="member_box">
-						<img src="../images/members/second/sol.jpg" alt="김솔" />
-						김솔<br />Associate Researcher
-						<div class="ui-tooltip">
-							<b>이름: </b>김솔<br /><br />
-							<b>직책: </b>Associate Researcher<br /><br />
-							<b>학교: </b>University of Otago<br /><br />
-							<b>전공: </b>Pharmacy<br /><br />
-							<b>한마디: </b>God helps who help themselves
-						</div>
-					</div>
+          <!-- <div class="member_box">
+            <img src="../images/members/second/sol.jpg" alt="김솔" />
+            김솔<br />Associate Researcher
+            <div class="ui-tooltip">
+              <b>이름: </b>김솔<br /><br />
+              <b>직책: </b>Associate Researcher<br /><br />
+              <b>학교: </b>University of Otago<br /><br />
+              <b>전공: </b>Pharmacy<br /><br />
+              <b>한마디: </b>God helps who help themselves
+            </div>
+          </div> -->
 					
 					<!-- 탈퇴 멤버-->
 					<!-- <div class="member_box">
@@ -533,17 +533,17 @@
 						</div>
 					</div>
 					
-					<div class="member_box">
-						<img src="../images/members/second/kyungeun.jpg" alt="윤경은" />
-						윤경은<br />Associate Researcher
-						<div class="ui-tooltip">
-							<b>이름: </b>윤경은<br /><br />
-							<b>직책: </b>Associate Researcher<br /><br />
-							<b>학교: </b>University of Pennsylvania<br /><br />
-							<b>전공: </b>Biology<br /><br />
-							<b>한마디: </b>Everything you can imagine is real
-						</div>
-					</div>
+          <!-- <div class="member_box">
+            <img src="../images/members/second/kyungeun.jpg" alt="윤경은" />
+            윤경은<br />Associate Researcher
+            <div class="ui-tooltip">
+              <b>이름: </b>윤경은<br /><br />
+              <b>직책: </b>Associate Researcher<br /><br />
+              <b>학교: </b>University of Pennsylvania<br /><br />
+              <b>전공: </b>Biology<br /><br />
+              <b>한마디: </b>Everything you can imagine is real
+            </div>
+          </div> -->
 					
 					<div class="member_box">
 						<img src="../images/members/second/dasom.jpg" alt="안다솜" />

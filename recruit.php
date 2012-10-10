@@ -10,7 +10,7 @@
 	    $current_page = "recruitment";  
 
 	    //Load header  
-	    include_once('./../includes/header.php');  
+	    include_once('./includes/header.php');  
 	?>
 
 </head>
@@ -27,12 +27,12 @@
 
 					<?php  
 					    //Load Title image and header  
-					    include_once('./../includes/titlehead.php');  
+					    include_once('./includes/titlehead.php');  
 					?>
 
 					<?php  
 					    //Load Navigation  
-					    include_once('./../includes/navi.php');  
+					    include_once('./includes/navi.php');  
 					?>
 
 					<div class="clear"></div>
@@ -51,14 +51,14 @@
 
 					<div class="textpage">
 
-						<div class="submenu"> 
-							<h1>
-								<a href="strategy.php">Strategy</a> / 
-								<a href="characteristics.php">Characteristics</a> / 
-								<a href="members.php">The Philanthropists Members</a> /
-								Recruitment
-							</h1>
-						</div>
+						<!-- <div class="submenu"> 
+						              <h1>
+						                <a href="strategy.php">Strategy</a> / 
+						                <a href="characteristics.php">Characteristics</a> / 
+						                <a href="members.php">The Philanthropists Members</a> /
+						                Recruitment
+						              </h1>
+						            </div> -->
 
 						<!-- columns -->
 
@@ -70,7 +70,7 @@
 							사회발전을 실현하는 글로벌 청춘 필란트로피스트 에서 제 3기 멤버들을 모집합니다!<br />
 							모집기간: 10/10 ~ 10/28<br />
               지원서와 r&eacute;sum&eacute; 를 global.philanthropists@gmail.com 로 보내주시기 바랍니다!<br />
-              <p>지원서 <a href="/docs/2012-2013_Philanthropist_ questionnaire.docx">다운로드</a></p>
+              
 
 							<div class="column col-1">
 
@@ -93,7 +93,7 @@
 
 							<div class="short-post">
 								
-								<p><br /><br /></p>
+								<p><br />지원서 (Application) <a href="/docs/2012-2013_Philanthropist_ questionnaire.docx">다운로드</a></p>
 								
 
 							</div>
@@ -128,7 +128,7 @@
 
 			<?php  
 			    //Load footer
-			    include_once('./../includes/footer.php');  
+			    include_once('./includes/footer.php');  
 			?>
 
 <!--/ footer -->
