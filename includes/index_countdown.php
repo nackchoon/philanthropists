@@ -37,12 +37,12 @@
   jQuery(document).ready(function() {
     $('#countdown_dashboard').countDown({
       targetDate: {
-        'day': 		1,
-        'month': 	12,
+        'day': 		28,
+        'month': 	10,
         'year': 	2012,
-        'hour': 	9,
-        'min': 		0,
-        'sec': 		0
+        'hour': 	23,
+        'min': 		59,
+        'sec': 		59
       }
     });
   });

@@ -76,22 +76,24 @@
 			 
 					<div class="front-image">
 						
-						<a href="/projects/conference/index.php">
-							<img src="/images/projects/conf2012/members_conf2012.jpg" alt="" />
+						<a href="/about/recruit.php">
+							<img src="/images/photo/recruit3.jpg" alt="" />
 						</a>
 						
 					</div> 
 					
-					<!-- <?php  
-					             //Load Title image and header  
-					             include_once('./includes/index_countdown.php');  
-					         ?> -->
+					<br />
 					
-					<div class="more">
+					<?php  
+             //Load Title image and header  
+             include_once('./includes/index_countdown.php');  
+		         ?>
 					
-						<a href="/projects/conference/index.php" class="link-button3 alignright">자세히</a>
-						
-					</div>
+          <!-- <div class="more">
+          
+            <a href="/projects/conference/index.php" class="link-button3 alignright">자세히</a>
+            
+          </div> -->
 					
 				</div>
 

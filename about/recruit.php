@@ -66,19 +66,21 @@
 
 							<!-- <img src="images/temp_img_7.jpg" width="630" height="98" alt="" class="img-b" /> -->
 
-							<p>The Philanthropists에서 2기 멤버 모집을 시작했습니다. 많은 관심 부탁 바랍니다. <br />
-							저희 단체에서 2기 멤버로 활동하고 싶은 분들은,<br />
-							global.philanthropists@gmail.com으로 r&eacute;sum&eacute;를 보내주시면 감사하겠습니다.</p>
+							<p><b>안녕하세요!</b><br />
+							사회발전을 실현하는 글로벌 청춘 필란트로피스트 에서 제 3기 멤버들을 모집합니다!<br />
+							모집기간: 10/10 ~ 10/28<br />
+              지원서와 r&eacute;sum&eacute; 를 global.philanthropists@gmail.com 로 보내주시기 바랍니다!<br />
+              <p>지원서 <a href="/docs/2012-2013_Philanthropist_ questionnaire.docx">다운로드</a></p>
 
 							<div class="column col-1">
 
-								<h2>2012년 5월 25일</h2> <p>5월 25일까지 r&eacute;sum&eacute;를 받을 예정입니다.</p>
+								<h2>2012년 10월 10일</h2> <p>필란트로피스트 3기 모집 시작</p>
 
 							</div>
 
 							<div class="column col-2">
 
-								<h2>2012년 6월 2-3일</h2> <p>6월 2일 그리고 6월 3일에는 인터뷰를 진행할 예정입니다. 면접은 한국에서, 또는 미국에서 현재 멤버들과 하게됩니다. </p> <!--<p><a href="contact.php" class="link-button2">Contact us for
+								<h2>2012년 10월 28일</h2> <p>필란트로피스트 3기 모집 마감</p> <!--<p><a href="contact.php" class="link-button2">Contact us for
 										quote</a></p>-->
 
 							</div>
