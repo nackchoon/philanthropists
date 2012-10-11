@@ -3,6 +3,8 @@
 	<ul class="dropdown">
 
 		<li class="root-item"><a <?php if ($current_page == "home") { ?>class="active"<?php } ?>  href="/index.php">Home</a></li>
+		
+		<li class="root-item"><a <?php if ($current_page == "recruitment") { ?>class="active"<?php } ?> href="/recruit.php">Recruitment</a></li>
 
 		<li class="root-item parent"><a <?php if ($current_page == "strategy") { ?>class="active"<?php } ?> href="/about/strategy.php">About us</a>
 
@@ -37,7 +39,7 @@
 	  
 	   <!-- <li class="root-item"><a <?php if ($current_page == "gallery") { ?>class="active"<?php } ?> href="/media/gallery.php">Gallery</a></li> -->
 
-	   <li class="root-item"><a <?php if ($current_page == "news") { ?>class="active"<?php } ?> href="/media/press.php">News Press</a></li>
+	   <li class="root-item"><a <?php if ($current_page == "news") { ?>class="active"<?php } ?> href="/media/press.php">Press</a></li>
 
 	   <!-- <li class="root-item"><a <?php if ($current_page == "magazine") { ?>class="active"<?php } ?> href="/magazine.php">Magazine</a></li> -->
 	   

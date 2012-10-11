@@ -21,6 +21,7 @@
 		});
 
 	</script>
+	
 	<link rel="Stylesheet" type="text/css" href="/css/countdown/main.css"></link>
 	
 	<style type="text/css">
@@ -74,15 +75,29 @@
 
 				<div class="content">
 			 
-					<div class="front-image">
-						
-						<a href="recruit.php">
-							<img src="/images/photo/recruit3.jpg" alt="" />
-						</a>
-						
-					</div> 
+          <!-- <div class="front-image">
+            
+            <a href="recruit.php">
+              <img src="/images/photo/recruit3.jpg" alt="" />
+            </a>
+            
+          </div>  -->
+          
+          <div class="front-text">
+            
+            <div class="front-title">
+              <a href="recruit.php">Join the Philanthropists</a>
+            </div>
+            
+          </div>
 					
 					<br />
+					
+					<div class="front_comment text-center">
+					  국내, 국외 학생들및 사회발전에 관심있는 글로벌 청춘들을 기다립니다!<br />
+					</div>
+					
+					<br /><br />
 					
 					<?php  
              //Load Title image and header  

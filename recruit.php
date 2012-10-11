@@ -48,6 +48,12 @@
 				<!-- content -->
 
 				<div class="content">
+				  
+				  <div class="front-image">
+
+							<img src="/images/photo/recruit3.jpg" alt="" />
+
+					</div>
 
 					<div class="textpage">
 
@@ -61,15 +67,16 @@
 						            </div> -->
 
 						<!-- columns -->
-
+						
 						<div class="column col-wide">
 
 							<!-- <img src="images/temp_img_7.jpg" width="630" height="98" alt="" class="img-b" /> -->
 
 							<p><b>안녕하세요!</b><br />
 							사회발전을 실현하는 글로벌 청춘 필란트로피스트 에서 제 3기 멤버들을 모집합니다!<br />
-							모집기간: 10/10 ~ 10/28<br />
-              지원서와 r&eacute;sum&eacute; 를 global.philanthropists@gmail.com 로 보내주시기 바랍니다!<br />
+              지원서와 r&eacute;sum&eacute; 를 global.philanthropists@gmail.com 로 보내주시기 바랍니다.<br />
+              국내, 국외 학생들및 사회발전에 관심있는 글로벌 청춘들을 기다립니다!<br />
+              모집기간: 10/10 ~ 10/28<br />
               
 
 							<div class="column col-1">
@@ -93,8 +100,10 @@
 
 							<div class="short-post">
 								
-								<p><br />지원서 (Application) <a href="/docs/2012-2013_Philanthropist_ questionnaire.docx">다운로드</a></p>
-								
+								<div class="alignright">
+								  <br />
+								  <p><a href="/docs/2012-2013_Philanthropist_ questionnaire.docx">지원서 (Application) 다운로드</a></p>
+								</div>
 
 							</div>
 
