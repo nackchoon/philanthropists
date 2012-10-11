@@ -73,7 +73,7 @@
 
 						<div class="submenu">
 
-							<h1>The Philanthropists&#39; Media</h1>
+							<h1>The Philanthropists&#39; in Media</h1>
 
 							<p>Under Construction</p>
 

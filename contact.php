@@ -63,9 +63,9 @@
 							
 							<span class="gray">전화번호:</span><br />
 
-							<small>한국:</small> <span class="black">(+82) 010 5052 0743</span><br />
+							<small>한국 (김남희):</small> <span class="black">(+82) 010 8903 3926</span><br />
 
-							<small>미국:</small> <span class="black">(+1) 412 759 4956</span><br /><br />
+							<small>미국 (김형준):</small> <span class="black">(+1) 646 701 1183</span><br /><br />
 							
 							<span class="gray">이메일:</span><br />
 

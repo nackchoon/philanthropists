@@ -208,26 +208,24 @@
 
 					</div>
 					
-					<div class="scroll-content-item">
+					<!-- <div class="scroll-content-item">
 
-						<div class="news-name"><h2>비영리 컨설팅</h2></div>
+					           <div class="news-name"><h2>비영리 컨설팅</h2></div>
 
-						<div class="item-date"><em>Ongoing</em></div>
+					           <div class="item-date"><em>Ongoing</em></div>
 
-						<img class="project-image aligncenter" src="/images/projects/thumb/consulting.jpg" alt="" />
+					           <img class="project-image aligncenter" src="/images/projects/thumb/consulting.jpg" alt="" />
 
-						<div class="news-short">
+					           <div class="news-short">
 
-							<p>The Philanthropists 의 nonprofit consulting은 실업과 빈곤, 질병, 대재앙, 사회 불평등 등 다양한 사회 문제 속에서 비영리 기관이 성공적인 비즈니스 기회를 발견할 수 있도록 도와주는 가치 창출 전략 프로젝트 입니다.</p>
+					             <p>The Philanthropists 의 nonprofit consulting은 실업과 빈곤, 질병, 대재앙, 사회 불평등 등 다양한 사회 문제 속에서 비영리 기관이 성공적인 비즈니스 기회를 발견할 수 있도록 도와주는 가치 창출 전략 프로젝트 입니다.</p>
 
-						</div>
+					           </div>
 
-						<!--<div class="more"><a href="#" class="link-button3">View link</a></div>-->
+					           <div class="more"><a href="#" class="link-button3">View link</a></div>
 
-					</div>
-					
-					<div class="clear"></div>
-
+					         </div> -->
+				
 					<div class="scroll-content-item">
 
 						<div class="news-name"><h2>세미나와 사례분석</h2></div>
@@ -245,6 +243,8 @@
 							<!--<div class="more"><a href="#" class="link-button3">View link</a></div>-->
 
 					</div>
+					
+					<div class="clear"></div>
 
 					<!-- <div class="scroll-content-item">
 
