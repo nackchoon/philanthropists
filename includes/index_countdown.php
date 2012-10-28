@@ -37,8 +37,8 @@
   jQuery(document).ready(function() {
     $('#countdown_dashboard').countDown({
       targetDate: {
-        'day': 		28,
-        'month': 	10,
+        'day': 		11,
+        'month': 	11,
         'year': 	2012,
         'hour': 	23,
         'min': 		59,

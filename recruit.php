@@ -76,7 +76,7 @@
 							사회발전을 실현하는 글로벌 청춘 필란트로피스트 에서 제 3기 멤버들을 모집합니다!<br />
               지원서와 r&eacute;sum&eacute; 를 global.philanthropists@gmail.com 로 보내주시기 바랍니다.<br />
               국내, 국외 학생들및 사회발전에 관심있는 글로벌 청춘들을 기다립니다!<br />
-              모집기간: 10/10 ~ 10/28<br />
+              모집기간: 10/10 ~ <strike>10/28</strike> 11/11 (모집 마감일이 연장 되었습니다)<br /> 
               
 
 							<div class="column col-1">
@@ -87,7 +87,7 @@
 
 							<div class="column col-2">
 
-								<h2>2012년 10월 28일</h2> <p>필란트로피스트 3기 모집 마감</p> <!--<p><a href="contact.php" class="link-button2">Contact us for
+								<h2>2012년 11월 11일</h2> <p>필란트로피스트 3기 모집 마감</p> <!--<p><a href="contact.php" class="link-button2">Contact us for
 										quote</a></p>-->
 
 							</div>

@@ -96,6 +96,7 @@
 					
 					<div class="front_comment text-center">
 					  국내, 국외 학생들및 사회발전에 관심있는 글로벌 청춘들을 기다립니다!<br />
+					  <small>(모집 마감일이 연장 되었습니다)</small>
 					</div>
 					
 					<br /><br />
