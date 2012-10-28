@@ -41,6 +41,7 @@
 	    //Load header  
 	    include_once('./includes/header.php');  
 	?>
+	
 
 </head>
 
@@ -160,6 +161,8 @@
 <!--/ middle -->
 
 	</div>
+	
+	<script src="/js/jquery.shuffleLetters.js"></script>
 
 </body>
 
