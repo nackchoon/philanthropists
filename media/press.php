@@ -135,12 +135,30 @@
     							  <p>"세계의 가난과 자원부족으로 인한 불평등 등 다양한 사회 문제를 해결하는 전략과 이를 실천할 사회발전가 육성을 논의하는 자리가 유학생들을 중심으로 마련된다..."</p>
     							  
     						</div>
-    						
-    					
-    					
-    					
     					
     					</div>
+    					
+    					<div class="column2">
+						  
+						    <div class="project-name">
+
+    							<h1>세히상 밝히는 해외 유학 두뇌들</h1>
+							
+    							<div class="project-meta border">출처: <span><a href="/images/press/chosun.jpg" target="_new">조선일보</a></span></div>
+
+    							<div class="project-meta">날짜: <span>1월 7일 2012</span></div>
+
+    						</div>
+
+    						<div class="project-descr darkScroll" id="paneDescr">
+
+    							<p>"전세계서 공부하는 한인 35명 '배운 지식으로 도움되고 싶어' 자선단체 만들고 4년째 활동 이번엔 아프리카 후원 콘서트..."</p>
+
+    						</div>
+    						
+    					</div>
+    					
+    					
     					
 						<div class="clear"></div>
 
