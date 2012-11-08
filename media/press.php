@@ -80,9 +80,9 @@
 						  
 						    <div class="project-name">
 
-    							<h1>Youth conference strives to be open to all participants</h1>
+    							<a href="http://koreajoongangdaily.joinsmsn.com/news/article/article.aspx?aid=2957842" target="_new"><h1>Youth conference strives to be open to all participants</h1></a>
 							
-    							<div class="project-meta border">출처: <span><a href="http://koreajoongangdaily.joinsmsn.com/news/article/article.aspx?aid=2957842">Korea Joongang Daily</a></span></div>
+    							<div class="project-meta border">출처: <span><a href="http://koreajoongangdaily.joinsmsn.com/news/article/article.aspx?aid=2957842" target="_new">Korea Joongang Daily</a></span></div>
 
     							<div class="project-meta">날짜: <span>8월 14일 2012</span></div>
 
@@ -100,9 +100,9 @@
 						  
 						    <div class="project-name">
 
-    							<h1>8월 4일, 사회발전을 위한 컨퍼런스가 열립니다</h1>
+    							<a href="http://blog.naver.com/the_nanum/50146751016" target="_new"><h1>8월 4일, 사회발전을 위한 컨퍼런스가 열립니다</h1></a>
 							
-    							<div class="project-meta border">출처: <span><a href="http://blog.naver.com/the_nanum/50146751016">소셜인사이트</a></span></div>
+    							<div class="project-meta border">출처: <span><a href="http://blog.naver.com/the_nanum/50146751016" target="_new">소셜인사이트</a></span></div>
 
     							<div class="project-meta">날짜: <span>7월 31일 2012</span></div>
 
@@ -122,9 +122,9 @@
 						  
 						    <div class="project-name">
 
-    							<h1>유학생들이 '사회발전 전략' 논의 콘퍼런스 마련</h1>
+    							<a href="http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=001&aid=0005671912" target="_new"><h1>유학생들이 '사회발전 전략' 논의 콘퍼런스 마련</h1></a>
 							
-    							<div class="project-meta border">출처: <span><a href="http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=001&aid=0005671912">네이버 뉴스 (연합)</a></span></div>
+    							<div class="project-meta border">출처: <span><a href="http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=001&aid=0005671912" target="_new">네이버 뉴스 (연합)</a></span></div>
 
     							<div class="project-meta">날짜: <span>7월 1일 2012</span></div>
 
@@ -142,7 +142,7 @@
 						  
 						    <div class="project-name">
 
-    							<h1>세히상 밝히는 해외 유학 두뇌들</h1>
+    							<a href="/images/press/chosun.jpg" target="_new"><h1>세상 밝히는 해외 유학 두뇌들</h1></a>
 							
     							<div class="project-meta border">출처: <span><a href="/images/press/chosun.jpg" target="_new">조선일보</a></span></div>
 
