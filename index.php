@@ -87,7 +87,7 @@
           <div class="front-text">
             
             <div class="front-title">
-              <a href="recruit.php">Join the Philanthropists</a>
+              <a href="#">The Philanthropic Concert</a>
             </div>
             
           </div>
@@ -95,8 +95,8 @@
 					<br />
 					
 					<div class="front_comment text-center">
-					  국내, 국외 학생들및 사회발전에 관심있는 글로벌 청춘들을 기다립니다!<br />
-					  <small>(모집 마감일이 연장 되었습니다)</small>
+					  소아마비 백신 후원 콘서트<br />
+					  <small>2013년 1월 4일 금요일 오후 7시-9시 / 홍대 롤링홀</small>
 					</div>
 					
 					<br /><br />
