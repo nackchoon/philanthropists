@@ -117,7 +117,7 @@
 
 						<div class="news-name">
 							
-							<h2><a href="/projects/concert.php">The Philanthropic Concert</a></h2>
+							<h2><a href="/projects/concert2012.php">The Philanthropic Concert</a></h2>
 							
 						</div>
 						
@@ -125,9 +125,9 @@
 
 						<div class="project-image-box">
 						
-							<a href="/projects/concert.php">
+							<a href="/projects/concert2012.php">
 							
-								<img class="project-image aligncenter" src="/images/projects/thumb/concert.jpg" alt="" />
+								<img class="project-image aligncenter" src="/images/projects/thumb/concert2012.jpg" alt="" />
 						
 							</a>
 							
@@ -140,7 +140,7 @@
 							
 							<div class="more alignright">
 
-								<a href="projects/concert.php" class="link-button3">자세히</a>
+								<a href="projects/concert2012.php" class="link-button3">자세히</a>
 
 							</div>
 

@@ -78,8 +78,8 @@
 			 
           <!-- <div class="front-image">
             
-            <a href="recruit.php">
-              <img src="/images/photo/recruit3.jpg" alt="" />
+            <a href="/projects/concert2013.php">
+              <img src="/images/photo/concert2013.png" alt="" width="996" />
             </a>
             
           </div>  -->
@@ -87,7 +87,7 @@
           <div class="front-text">
             
             <div class="front-title">
-              <a href="#">The Philanthropic Concert</a>
+              <a href="/projects/concert2013.php">The Philanthropic Concert</a>
             </div>
             
           </div>
@@ -96,7 +96,7 @@
 					
 					<div class="front_comment text-center">
 					  소아마비 백신 후원 콘서트<br />
-					  <small>2013년 1월 4일 금요일 오후 7시-9시 / 홍대 롤링홀</small>
+					  <small>2013년 1월 4일 금요일 오후 6:30-9PM / 홍대 롤링홀</small>
 					</div>
 					
 					<br /><br />

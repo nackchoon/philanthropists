@@ -4,7 +4,9 @@
 
 		<li class="root-item"><a <?php if ($current_page == "home") { ?>class="active"<?php } ?>  href="/index.php">Home</a></li>
 		
-		<li class="root-item"><a <?php if ($current_page == "recruitment") { ?>class="active"<?php } ?> href="/recruit.php">Recruitment</a></li>
+    <!-- <li class="root-item"><a <?php if ($current_page == "recruitment") { ?>class="active"<?php } ?> href="/recruit.php">Recruitment</a></li> -->
+    
+    <li class="root-item"><a <?php if ($current_page == "concert") { ?>class="active"<?php } ?> href="/projects/concert2013.php">Concert</a></li>
 
 		<li class="root-item parent"><a <?php if ($current_page == "strategy") { ?>class="active"<?php } ?> href="/about/strategy.php">About us</a>
 
