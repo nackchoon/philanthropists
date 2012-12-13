@@ -76,30 +76,28 @@
 
 				<div class="content">
 			 
-          <!-- <div class="front-image">
+          <div class="front-image">
             
             <a href="/projects/concert2013.php">
-              <img src="/images/photo/concert2013.png" alt="" width="996" />
+              <img src="/images/projects/concert2013/main.jpg" alt="" width="996" />
             </a>
             
-          </div>  -->
+          </div> 
           
-          <div class="front-text">
+          <!-- <div class="front-text">
             
             <div class="front-title">
               <a href="/projects/concert2013.php">The Philanthropic Concert</a>
             </div>
             
-          </div>
+          </div> -->
+					
+          <!-- <div class="front_comment text-center">
+            소아마비 백신 후원 콘서트<br />
+            <small>2013년 1월 4일 금요일 오후 6:30-9PM / 홍대 롤링홀</small>
+          </div> -->
 					
 					<br />
-					
-					<div class="front_comment text-center">
-					  소아마비 백신 후원 콘서트<br />
-					  <small>2013년 1월 4일 금요일 오후 6:30-9PM / 홍대 롤링홀</small>
-					</div>
-					
-					<br /><br />
 					
 					<?php  
              //Load Title image and header  

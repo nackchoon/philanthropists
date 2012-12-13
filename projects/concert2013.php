@@ -97,7 +97,7 @@
 
                 <div class="border"><h1>The Philanthropic Concert</h1></div>
 						
-				<div class="project-meta">날짜: <span>2013년 1월 4일 6:30 PM - 9:00 PM <br />장소: 홍대 롤링홀</span></div>
+				<div class="project-meta">날짜: <span>2013년 1월 4일 7:00 PM - 9:00 PM <br />장소: 홍대 롤링홀</span></div>
 
             </div>
 			
@@ -105,7 +105,8 @@
 			
 			<div class="text-center">
 				
-				<img src="../images/photo/concert2013.png" alt="" class="project-image-ncj" />
+        <!-- <img src="../images/photo/concert2013.png" alt="" class="project-image-ncj" /> -->
+        <img src="../images/projects/concert2013/poster.jpg" />
 
 			</div>
 			
@@ -117,11 +118,11 @@
 				
 				<p><strong>날짜:</strong> 2013년 1월 4일 금요일</p>
 
-				<p><strong>시간:</strong> 6:30 PM - 9:00 PM </p>
+				<p><strong>시간:</strong> 7:00 PM - 9:00 PM </p>
 
 				<p><strong>장소:</strong> 홍대 롤링홀</p>
 
-				<p><strong>가격:</strong> 미정</p>
+				<p><strong>가격:</strong> 온라인 예매 40000원 / 현장구매 44000원</p>
 
 				<p>*문의사항은 global.philanthropists@gmail.com 으로 연락해 주세요.</p>
           	</div>
