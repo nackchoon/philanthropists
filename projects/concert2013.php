@@ -105,8 +105,8 @@
 			
 			<div class="text-center">
 				
-        <img src="../images/photo/concert2013.png" alt="" class="project-image-ncj" />
-        <!-- <img src="../images/projects/concert2013/poster.jpg" /> -->
+        <!-- <img src="../images/photo/concert2013.png" alt="" class="project-image-ncj" /> -->
+        <img src="../images/projects/concert2013/poster.jpg" />
 
 			</div>
 			
