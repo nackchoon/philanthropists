@@ -95,36 +95,62 @@
 
           	<div class="project-name">
 
-                <div class="border"><h1>The Philanthropic Concert</h1></div>
+                <div class="border"><h1>The Philanthropic Concert [生:콘서트]</h1></div>
 						
-				<div class="project-meta">날짜: <span>2013년 1월 4일 7:00 PM<br />장소: 홍대 롤링홀</span></div>
+				<div class="project-meta">날짜: <span>2013년 1월 4일 7:00 PM<br />장소: 홍대 롤링홀<br /><a href="http://www.facebook.com/the.philanthropists">페이스북 페이지</a></span></div>
 
             </div>
 			
 			<div class="clear"></div>
 			
-			<div class="text-center">
-				
-        <!-- <img src="../images/photo/concert2013.png" alt="" class="project-image-ncj" /> -->
-        <img src="../images/projects/concert2013/poster.jpg" />
-
-			</div>
+      <div class="text-center">
+        
+        <div class="alignleft">
+          <iframe width="638" height="485" src="http://www.youtube.com/embed/cHVdiOu2YL8?rel=0" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <div class="alignleft">
+          <img src="/images/projects/concert2013/concert2013.jpg" width="350"/>
+        </div>
+        
+      </div>
+			
+			<div class="clear"></div>
+			
+			<a href="http://piuul.com/content/view/16" class="link-button3 alignright" target="_blank">티켓 구매</a>
 			
           	<div class="project-descr">
-
-             	<p><b>소아마비 백신 콘서트!</b></p>
+          	  
+              <h2>소아마비 백신 콘서트!</h2>
               
-              <p>저희 콘서트는 사회적 혁신 프로젝트이며, 자선 콘서트를 통해 대한민국의 젊은 리더들의 사회적 책임의식 개선과 전략적 사회공헌에 대한 인식을 알리는 데에 목적이 있습니다. 또한 수익금 전액은 제 3세계의 소아마비 백신 지원에 사용되며, 이 것은 전략적 기부의 한 예로써 기부금의 용도와 백신의 금액이 명확히 정해져 있습니다. 초청 아티스트들의 재능기부를 통한 사회공헌 공연인만큼 여러분들의 많은 관심 부탁드립니다.</p>
-				
-				<p><strong>날짜:</strong> 2013년 1월 4일 금요일</p>
+              <p><b>이제는 기부도 전략이다!</b></p>
+              
+              <p>
+                <b>The Philanthropists</b>는 셀런트로피스트의 선진 재능기부 문화를 여러분에게 소개하고자 <b>2013 더 필란트로스트-[生:콘서트]</b>를 주최했습니다. 이번 콘서트의 수익금은 제 3세계 <b>소아마비 백신후원</b>에 사용됩니다.
+              </p>
+              
+              <p><b>셀란트로피스트(Celanthropist):</b> [Celebrity + Philanthropist]라는 신조어</p>
+              <blockquote>
+                2013 더 필란트로-[生:콘서트]는 <b>아티스트들은 재능기부</b>를 통한, <b>관객들은 콘서트 관람</b>을 통한 사회 공헌 활동으로 이어주는 전략적 사회발전 콘서트입니다.
+              </blockquote>
+              
+              <p><b>소아마비 백신후원</b></p>
+              <blockquote>
+                단순 공연 관람이 아닌 전략적인 기부로써 어린이들의 <b>생명을 살리는</b> 참여가 됩니다.
+              </blockquote>
+              
+              <p>
+                <strong>날짜:</strong> 2013년 1월 4일 금요일 <br />
+                <strong>시간:</strong> 7:00 PM <br />
+                <strong>장소:</strong> 홍대 롤링홀 <br />
+                <strong>가격:</strong> 온라인 예매 40000원 / 현장구매 44000원 
+              </p>
+              
+              <p>
+                <i>오시는 길 혹은 티켓 구매 문의는 위에 있는 티켓 구매 링크를 눌러주세요!</i>
+              </p>
 
-				<p><strong>시간:</strong> 7:00 PM</p>
-
-				<p><strong>장소:</strong> 홍대 롤링홀</p>
-
-				<p><strong>가격:</strong> 온라인 예매 40000원 / 현장구매 44000원</p>
-
-				<p>*문의사항은 global.philanthropists@gmail.com 으로 연락해 주세요.</p>
+              <p>*문의사항은 global.philanthropists@gmail.com 으로 연락해 주세요.</p>
+              
           	</div>
 
 		</div>

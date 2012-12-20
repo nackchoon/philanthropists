@@ -82,7 +82,7 @@
               <img src="/images/projects/concert2013/main.jpg" alt="" width="996" />
             </a>
             
-          </div> 
+          </div>
           
           <!-- <div class="front-text">
             
@@ -91,12 +91,12 @@
             </div>
             
           </div> -->
-					
-          <!-- <div class="front_comment text-center">
-            소아마비 백신 후원 콘서트<br />
-            <small>2013년 1월 4일 금요일 오후 6:30-9PM / 홍대 롤링홀</small>
-          </div> -->
-					
+					<br />
+          <div class="front_comment text-center">
+            2013 더 필란트로픽 生:콘서트<br />
+            <small>2013년 1월 4일 금요일 7:00PM / 홍대 롤링홀</small>
+          </div>
+          
 					<br />
 					
 					<?php  
