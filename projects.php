@@ -152,7 +152,7 @@
 
 						<div class="news-name"><h2>The Philanthropic Magazine</h2></div>
 
-						<div class="item-date"><em>2011년 11월</em></div>
+						<div class="item-date"><em>Ongoing</em></div>
 						
 						<img class="project-image aligncenter" src="/images/projects/thumb/magazine.jpg" alt="" />
 
