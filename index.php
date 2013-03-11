@@ -93,15 +93,15 @@
           </div> -->
 					<br />
           <div class="front_comment text-center">
-            2013 더 필란트로픽 生:콘서트<br />
-            <small>2013년 1월 4일 금요일 7:00PM / 홍대 롤링홀</small>
+            2013 더 필란트로픽 生:콘서트 <br />
+            필란트로피스트와 함께 해 주신 모든 분들께 진심으로 감사드립니다!
           </div>
           
 					<br />
 					
 					<?php  
              //Load Title image and header  
-             include_once('./includes/index_countdown.php');  
+             //include_once('./includes/index_countdown.php');  
 		         ?>
 					
           <!-- <div class="more">
@@ -111,34 +111,6 @@
           </div> -->
 					
 				</div>
-
-				<!-- <div class="first-item scroll-content-item">
-
-					<div class="scroll-item-img"><a href="project.php"><img src="images/projects/temp_img_6.jpg" width="304" height="227" alt="" /></a></div>
-
-					<div class="scroll-item-name">
-
-						<p><a href="#">Web Name</a> | <a href="#" class="link-view">view</a></p>
-
-						<span class="item-date">APR 12, 2010 | WEBDESIGN</span>
-
-					</div>
-
-				</div>
-
-				<div class="scroll-content-item">
-
-					<div class="scroll-item-img"><a href="project.php"><img src="images/projects/temp_img_3.jpg" width="304" height="227" alt="" /></a></div>
-
-					<div class="scroll-item-name">
-
-						<p><a href="#">Web Name</a> | <a href="#" class="link-view">view</a></p>
-
-						<span class="item-date">DEC 9, 2009 | WALLPAPERS</span>
-
-					</div>
-
-				</div> -->
 
 			<!--/ slider -->
 

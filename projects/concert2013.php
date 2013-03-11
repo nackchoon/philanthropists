@@ -47,21 +47,11 @@
 
 </head>
 
-
-
 <body>
-
-
-
-    
 
 <div id="outer">
 
-
-
 	<div class="container">
-
-            
 
 		<!-- header -->
 
@@ -82,85 +72,54 @@
 			</div>
 
 		<!--/ header -->
-<hr class="hr-division">
+      <hr class="hr-division">
 
-<div class="body_container clearfix">
+      <div class="body_container clearfix">
 
+         		<!-- content -->
 
-   		<!-- content -->
-
-	<div class="content">
+      	<div class="content">
 		
-		<div class="project-text">
+      		<div class="project-text">
 
           	<div class="project-name">
 
-                <div class="border"><h1>The Philanthropic Concert [生:콘서트]</h1></div>
+              <div class="border"><h1>The Philanthropic Concert [生:콘서트]</h1></div>
 						
-				<div class="project-meta">날짜: <span>2013년 1월 4일 7:00 PM<br />장소: 홍대 롤링홀<br /><a href="http://www.facebook.com/the.philanthropists">페이스북 페이지</a></span></div>
+        				<!-- <div class="project-meta">날짜: <span>2013년 1월 4일 7:00 PM<br />장소: 홍대 롤링홀<br /><a href="http://www.facebook.com/the.philanthropists">페이스북 페이지</a></span></div> -->
 
-            </div>
+              </div>
 			
-			<div class="clear"></div>
+        			<div class="clear"></div>
 			
-      <div class="text-center">
-        
-        <div class="alignleft">
-          <iframe width="638" height="485" src="http://www.youtube.com/embed/cHVdiOu2YL8?rel=0" frameborder="0" allowfullscreen></iframe>
-        </div>
-        <div class="alignleft">
-          <img src="/images/projects/concert2013/concert2013.jpg" width="350"/>
-        </div>
-        
+              <div class="project-descr">
+                
+                <br />
+                
+                <div class="alignright">
+                  <img src="/images/projects/concert2013/concert2013.jpg" width="350"/>
+                </div>
+                
+                <br /><br />
+                <h2>소아마비 예방백신 기부를 위한 필란트로픽 콘서트</h2>
+                
+                <p>더 필란트로피스트는 2013년에도 지난 해에 이어 두번째 더 필란트로픽 生:콘서트를 성공적으로 열었습니다. 이번 더 필란트로픽 生:콘서트는 소아마비의 위험성과 백신의 혜택을 받지 못하는 빈곤 국가 아이들에 대한 인식을 넓히고, 소아마비 백신 지원금을 마련하고자 하는 주제로 열렸습니다. 지난 1월 4일 홍대 롤링홀에서 열린 콘서트는, 엠씨더맥스와 힙합뮤지션 딥플로우, b-free, 화지, 그리고 아카펠라 그룹 메이트리, 인디밴드 동네빵집이 재능 기부로 공연하였고, 취지에 동감하는 많은 분들이 자리를 빛내주셨습니다.</p> 
+
+                <p>이 날 콘서트에는 재능기부로 참여한 아티스트들의 열정적인 공연은 물론, 셀란트로피스트(celanthropists: 셀레브리티와 필란트로피스트의 합성어로 사회 참여에 기여하는 유명인을 칭하는 말) 개념과 전략적 사회발전에 대한 프레젠테이션도 더해졌습니다.  더 필란트로피스트는 국내에 아직 정착되지 않은 셀란트로피스트 문화를 뿌리내리고자 하는 노력의 첫 걸음으로, 자선콘서트를 일회성 행사가 아닌 연간행사로 삼고 매년 다른 사회문제를 토픽으로 열리고 있습니다.</p> 
+
+                <p>약 250명의 관객이 함께한 이번 콘서트를 통해, 6,058,750원의 기부금이 모였으며 기부금은 전액 유니세프 한국위원회를 통해 제3세계 아이들에게 전달될 예정입니다.</p>
+                
+      
+            	</div>
+
+        		</div>
+
+         	</div>            
+
+              <!--/ content --> 
+
       </div>
-			
-			<div class="clear"></div>
-			
-			<a href="http://piuul.com/content/view/16" class="link-button3 alignright" target="_blank">티켓 구매</a>
-			
-          	<div class="project-descr">
-          	  
-              <h2>소아마비 백신 콘서트!</h2>
-              
-              <p><b>이제는 기부도 전략이다!</b></p>
-              
-              <p>
-                <b>The Philanthropists</b>는 셀런트로피스트의 선진 재능기부 문화를 여러분에게 소개하고자 <b>2013 더 필란트로스트-[生:콘서트]</b>를 주최했습니다. 이번 콘서트의 수익금은 제 3세계 <b>소아마비 백신후원</b>에 사용됩니다.
-              </p>
-              
-              <p><b>셀란트로피스트(Celanthropist):</b> [Celebrity + Philanthropist]라는 신조어</p>
-              <blockquote>
-                2013 더 필란트로-[生:콘서트]는 <b>아티스트들은 재능기부</b>를 통한, <b>관객들은 콘서트 관람</b>을 통한 사회 공헌 활동으로 이어주는 전략적 사회발전 콘서트입니다.
-              </blockquote>
-              
-              <p><b>소아마비 백신후원</b></p>
-              <blockquote>
-                단순 공연 관람이 아닌 전략적인 기부로써 어린이들의 <b>생명을 살리는</b> 참여가 됩니다.
-              </blockquote>
-              
-              <p>
-                <strong>날짜:</strong> 2013년 1월 4일 금요일 <br />
-                <strong>시간:</strong> 7:00 PM <br />
-                <strong>장소:</strong> 홍대 롤링홀 <br />
-                <strong>가격:</strong> 온라인 예매 40000원 / 현장구매 44000원 
-              </p>
-              
-              <p>
-                <i>오시는 길 혹은 티켓 구매 문의는 위에 있는 티켓 구매 링크를 눌러주세요!</i>
-              </p>
-
-              <p>*문의사항은 global.philanthropists@gmail.com 으로 연락해 주세요.</p>
-              
-          	</div>
-
-		</div>
-
-   	</div>            
-
-        <!--/ content --> 
-
-</div>
-<hr class="hr-division">
+      <hr class="hr-division">
 
 <!-- footer -->
 
@@ -175,9 +134,7 @@
 
 <!--/ middle -->    
 
-
-
-</div>
+  </div>
 
 </body>
 
