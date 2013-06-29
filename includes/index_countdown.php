@@ -37,10 +37,10 @@
   jQuery(document).ready(function() {
     $('#countdown_dashboard').countDown({
       targetDate: {
-        'day': 		4,
-        'month': 	1,
+        'day': 		20,
+        'month': 	7,
         'year': 	2013,
-        'hour': 	19,
+        'hour': 	9,
         'min': 		00,
         'sec': 		00
       }

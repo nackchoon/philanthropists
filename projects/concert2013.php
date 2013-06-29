@@ -86,7 +86,7 @@
 
               <div class="border"><h1>The Philanthropic Concert [生:콘서트]</h1></div>
 						
-        				<!-- <div class="project-meta">날짜: <span>2013년 1월 4일 7:00 PM<br />장소: 홍대 롤링홀<br /><a href="http://www.facebook.com/the.philanthropists">페이스북 페이지</a></span></div> -->
+        				<div class="project-meta">날짜: <span>2013년 1월 4일 7:00 PM<br />장소: 홍대 롤링홀</span></div>
 
               </div>
 			

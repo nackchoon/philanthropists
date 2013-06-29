@@ -75,14 +75,19 @@
 			<div class="body_container clearfix"> <!-- slider -->
 
 				<div class="content">
+					
+					<a href="/projects/conference2013/index.php">
+            <img src="/images/projects/conf2013/main.png" alt="" width="996" />
+          </a>
 			 
-          <div class="front-image">
+          <!-- with the original div-->
+					<!-- <div class="front-image">
             
             <a href="/projects/concert2013.php">
-              <img src="/images/projects/concert2013/main.jpg" alt="" width="996" />
+              <img src="/images/projects/conf2013/main.png" alt="" width="996" />
             </a>
             
-          </div>
+          </div> -->
           
           <!-- <div class="front-text">
             
@@ -91,17 +96,18 @@
             </div>
             
           </div> -->
-					<br />
+
+					<!-- <br />
           <div class="front_comment text-center">
             2013 더 필란트로픽 生:콘서트 <br />
             필란트로피스트와 함께 해 주신 모든 분들께 진심으로 감사드립니다!
-          </div>
+          </div> -->
           
 					<br />
 					
 					<?php  
              //Load Title image and header  
-             //include_once('./includes/index_countdown.php');  
+             include_once('./includes/index_countdown.php');  
 		         ?>
 					
           <!-- <div class="more">

@@ -77,11 +77,46 @@
 
 				<div class="content-blocks">
 					
+					<div class="scroll-content-item clearfix">
+
+						<div class="news-name">
+							
+							<h2><a href="/projects/concert2012.php">The Philanthropic Concert 2013</a></h2>
+							
+						</div>
+						
+						<div class="item-date"><em>2013년 1월 4일</em></div>
+
+						<div class="project-image-box">
+						
+							<a href="/projects/concert2013.php">
+							
+								<img class="project-image aligncenter" src="/images/projects/thumb/concert2013.png" alt="" />
+						
+							</a>
+							
+						</div>
+
+						<div class="news-short">
+							
+							<p>The Philanthropic Concert - [生:콘서트]<br />
+							   다양한 아티스트들의 재능기부를 통해 사회적 공헌을 하는 콘서트입니다. 수익금 전액은 소아마비 백신 후원을 위해 사용됩니다.</p>
+							
+							<div class="more alignright">
+
+								<a href="projects/concert2013.php" class="link-button3">자세히</a>
+
+							</div>
+
+						</div>
+						
+					</div>
+					
 					<div class="scroll-content-item">
 
 						<div class="news-name">
 						
-							<h2><a href="/projects/conference/index.php">The Philanthropic Conference</a></h2>
+							<h2><a href="/projects/conference2012/index.php">The Philanthropic Conference</a></h2>
 							
 						</div>
 
@@ -89,7 +124,7 @@
 						
 						<div class="project-image-box">
 							
-							<a href="/projects/conference/index.php">
+							<a href="/projects/conference2012/index.php">
 								
 								<img class="project-image aligncenter" src="/images/projects/thumb/conference.jpg" alt="" />
 							
@@ -103,7 +138,7 @@
 							
 							<div class="more alignright">
 							
-								<a href="/projects/conference/index.php" class="link-button3">자세히</a>
+								<a href="/projects/conference2012/index.php" class="link-button3">자세히</a>
 							
 							</div>
 							
@@ -117,7 +152,7 @@
 
 						<div class="news-name">
 							
-							<h2><a href="/projects/concert2012.php">The Philanthropic Concert</a></h2>
+							<h2><a href="/projects/concert2012.php">The Philanthropic Concert 2012</a></h2>
 							
 						</div>
 						
@@ -148,6 +183,8 @@
 						
 					</div>
 					
+					<div class="clear"></div>
+					
 					<div class="scroll-content-item">
 
 						<div class="news-name"><h2>The Philanthropic Magazine</h2></div>
@@ -165,8 +202,6 @@
 							<!--<div class="more"><a href="#" class="link-button3">View link</a></div>-->
 
 					</div>
-					
-					<div class="clear"></div>
 					
 					<div class="scroll-content-item">
 
