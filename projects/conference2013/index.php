@@ -146,7 +146,7 @@
 				
 				<br />
 				
-				<h4>The Philanthropic Conference Schedule (8월 4일)</h4>
+				<h4>The Philanthropic Conference Schedule (7월 20일)</h4>
 				
 				<br />
 				
