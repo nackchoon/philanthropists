@@ -98,10 +98,10 @@
 
 					<div class="submenu"> 
 						<h1>
-							<a href="/projects/conference/index.php#content">Overview</a> /
-							<a href="/projects/conference/topics.php#content">Topics</a> /
+							<a href="/projects/conference2012/index.php#content">Overview</a> /
+							<a href="/projects/conference2012/topics.php#content">Topics</a> /
 							Panelists /
-							<a href="/projects/conference/mainspeaker.php#content">Speaker</a>
+							<a href="/projects/conference2012/mainspeaker.php#content">Speaker</a>
 							
 						</h1>
 					</div>

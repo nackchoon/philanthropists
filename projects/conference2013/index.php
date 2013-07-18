@@ -103,7 +103,7 @@
 
 			<div class="text-center">
 
-				<img src="/images/projects/conf2013/main.png" alt="" class="project-image-ncj" />
+				<img src="/images/projects/conf2013/banner.png" alt="" class="project-image-ncj" />
 
 			</div>
 
@@ -146,50 +146,41 @@
 				
 				<br />
 				
-				<h4>The Philanthropic Conference Schedule (7월 20일)</h4>
+				<img src="/images/projects/conf2013/1.jpeg" alt="" width=462 />
+				
+				<img src="/images/projects/conf2013/2.jpeg" alt="" width=462 />
 				
 				<br />
 				
-				<table>
-					<tr>
-						<th>시간</th>
-						<th colspan="3">내용</th>
-					</tr>
-					<tr>
-						<th>9:00 - 9:30</th>
-						<td colspan="4">패널 등록시간</td>
-					</tr>
-					<tr>
-						<th>9:30 - 10:00</th>
-						<td colspan="3">개회식</td>
-					</tr>
-					<tr>
-						<th>10:00 - 11:30</th>
-						<td>마이크로파이낸스</td>
-						<td>교육</td>
-						<td>사회발전 컨설팅</td>
-					</tr>
-					<tr>
-						<th>11:30 - 13:00</th>
-						<td colspan="3">점심 &amp; 멘토링</td>
-					</tr>
-					<tr>
-						<th>13:00 - 14:30</th>
-						<td>사회발전 미디어</td>
-						<td>의료보건</td>
-						<td>열린정부</td>
-					</tr>
-					<tr>
-						<th>14:30 - 16:00</th>
-						<td>사회적 기업</td>
-						<td>녹색성장</td>
-						<td>CSR &amp; CSV</td>
-					</tr>
-					<tr>
-						<th>16:00 - 16:30</th>
-						<td colspan="3">폐회식</td>
-					</tr>
-				</table>
+				<img src="/images/projects/conf2013/3.jpeg" alt="" width=462 />
+				
+				<img src="/images/projects/conf2013/4.jpeg" alt="" width=462 />
+				
+				<br />
+				
+				<img src="/images/projects/conf2013/5.jpeg" alt="" width=462 />
+				
+				<img src="/images/projects/conf2013/6.jpeg" alt="" width=462 />
+				
+				<br />
+				
+				<img src="/images/projects/conf2013/7.jpeg" alt="" width=462 />
+				
+				<img src="/images/projects/conf2013/8.jpeg" alt="" width=462 />
+				
+				<br /> <br /> <br />
+				
+				<div class="text-center" >
+					
+					<img src="/images/projects/conf2013/schedule.jpg" alt="" width=500 />
+				
+					<br /><br />
+					
+					<hr />
+				
+					<img src="/images/projects/conf2013/footer.png" alt="" width=700 />
+				
+				</div> 
 				
 				<br />
 				

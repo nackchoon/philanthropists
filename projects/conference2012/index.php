@@ -99,9 +99,9 @@
 					<div class="submenu"> 
 						<h1>
 							Overview /
-							<a href="/projects/conference/topics.php#content">Topics and Panelists</a> /
+							<a href="/projects/conference2012/topics.php#content">Topics and Panelists</a> /
 							<!-- <a href="/projects/conference/panelists.php#content">Panelists</a> / -->
-							<a href="/projects/conference/mainspeaker.php#content">Speakers</a>
+							<a href="/projects/conference2012/mainspeaker.php#content">Speakers</a>
 							
 						</h1>
 					</div>

@@ -111,8 +111,8 @@
 
 					<div class="submenu"> 
 						<h1>
-							<a href="/projects/conference/index.php#content">Overview</a> /
-							<a href="/projects/conference/topics.php#content">Topics and Panelists</a> /
+							<a href="/projects/conference2012/index.php#content">Overview</a> /
+							<a href="/projects/conference2012/topics.php#content">Topics and Panelists</a> /
 							<!-- <a href="/projects/conference/panelists.php#content">Panelists</a> / -->
 							Speakers
 							
