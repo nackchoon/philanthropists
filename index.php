@@ -80,7 +80,7 @@
             <img src="/images/projects/conf2013/main.png" alt="" width="996" />
           </a> -->
 
-					<iframe width="996" height="590" src="//www.youtube.com/embed/GBhfjNIpHtk?rel=0" frameborder="0" allowfullscreen></iframe>
+					<iframe width="996" height="560" src="//www.youtube.com/embed/GBhfjNIpHtk?rel=0&autoplay=1&controls=0" frameborder="0" allowfullscreen></iframe>
 			 
           <!-- with the original div-->
 					<!-- <div class="front-image">
@@ -105,18 +105,20 @@
             필란트로피스트와 함께 해 주신 모든 분들께 진심으로 감사드립니다!
           </div> -->
           
-					<br />
+					<br /><br />
+					
+          <div class="more">
+          
+            <a href="/projects/conf2013.php" class="link-button3 alignright">자세히</a>
+            
+          </div>					
 					
 					<?php  
              //Load Title image and header  
              include_once('./includes/index_countdown.php');  
 		         ?>
 					
-          <!-- <div class="more">
-          
-            <a href="/projects/conference/index.php" class="link-button3 alignright">자세히</a>
-            
-          </div> -->
+
 					
 				</div>
 
