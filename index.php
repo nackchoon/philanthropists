@@ -76,9 +76,11 @@
 
 				<div class="content">
 					
-					<a href="/projects/conference2013/index.php">
+					<!-- <a href="/projects/conference2013/index.php">
             <img src="/images/projects/conf2013/main.png" alt="" width="996" />
-          </a>
+          </a> -->
+
+					<iframe width="996" height="590" src="//www.youtube.com/embed/GBhfjNIpHtk?rel=0" frameborder="0" allowfullscreen></iframe>
 			 
           <!-- with the original div-->
 					<!-- <div class="front-image">
